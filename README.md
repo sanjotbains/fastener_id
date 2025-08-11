@@ -14,12 +14,13 @@ A tool for identifying hardware fasteners (bolts, screws, etc.) from images and,
 
 - Outlined initial approach for fastener identification.
 - Researched background pattern usage for dimension estimation.
+- Experimenting with FFTs on images of threaded fasteners on various backgrounds.
 
 ## In Progress
 
-- Experimenting with FFTs on images of threaded fasteners on various backgrounds.
 - Testing preprocessing filters (e.g., Laplacian) to enhance thread visibility.
 - Aligning fastener images for consistent analysis.
+- Using ruled graph paper for calibration (OpenCV).
 
 ## Future
 
